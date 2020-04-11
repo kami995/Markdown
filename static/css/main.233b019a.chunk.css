@@ -1,0 +1,2 @@
+*{padding:0;margin:0;font-family:Verdana,Geneva,Tahoma,sans-serif}a,a:visited{text-decoration:none}a:visited{color:#fff}a:hover{color:#ff0}#mainHeading{text-align:center}#wrapper{width:100%;display:grid;grid-template-columns:50% 50%}#editor{grid-column-start:1}#editor,#preview{min-height:400px;padding:1.3em}#preview{background-color:#000;color:#fff;grid-column-start:2}@media(max-width:750px){#wrapper{display:block}#editor,#preview{width:100%}}
+/*# sourceMappingURL=main.233b019a.chunk.css.map */
